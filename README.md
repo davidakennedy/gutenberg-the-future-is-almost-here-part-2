@@ -1,6 +1,6 @@
-# Gutenberg: The Future is (Almost) Here
+# Gutenberg: The Future is (Almost) Here, Part 2
 
-A talk for the TriadWP Meetup group, given on March 14, 2018.
+A talk for the TriadWP Meetup group, given on October 10, 2018.
 
 ## License
 
